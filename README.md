@@ -31,3 +31,11 @@
 <br/>
 <h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTVhUUFjQkJPNzhXNXZxbzN0VUszcTVWT1ozQXxBQ3Jtc0tuRjB2S0tkYnBfT0lsbVJ0UjhEc2pDS3ZTQS1zY2x2TzRJbklvWlVCN3B5eUxhWGt5ZXhndmtfbFVYWlRqeXdWQnRtWHZDdU9keUdOY0lhWWQ2b3JaZEwzcXRJRURQN1ZUY29sR0lyY3NRV3Q2ZENuYw&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fu%2F3%2Ffolders%2F1tVKoJ8ruh9kfwweYG9vJRorclnS_O4wr&v=ln-JWRw_hFs">🚀Click here for Notes</a>
 </h3>
+<br/>
+
+<h1>Lecture 5</h1>
+<a href="https://youtu.be/T3at61GvUo0?si=bdnOTLAAQxuMZC5G"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/aa7c385b-1b45-451e-9d6b-a8aac8bba38a"></a>
+<br/>
+<h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVRUR1NlV19Qc01nNTV6R0hhWjRrT0tKNW9tQXxBQ3Jtc0tsUC13RkhJRDVrb2pHdFJ0c2dPdmpIR25vOTB3M1dISFQwZVlxa2c2TExnVGswV0xKUFpfM3FWeEVDRUV6RjNUQnZsMnF4dm1HLUZ0S295UEdUVk44Sldsc0JYdy1KWnVNYzFrak1aUkRaalBEZWtGYw&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fu%2F3%2Ffolders%2F11nWm_MX6xjmgI9fr0piN3FzuSaaNwlVx&v=T3at61GvUo0">🚀Click here for Notes</a>
+</h3>
+<br/>
