@@ -39,3 +39,10 @@
 <h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVRUR1NlV19Qc01nNTV6R0hhWjRrT0tKNW9tQXxBQ3Jtc0tsUC13RkhJRDVrb2pHdFJ0c2dPdmpIR25vOTB3M1dISFQwZVlxa2c2TExnVGswV0xKUFpfM3FWeEVDRUV6RjNUQnZsMnF4dm1HLUZ0S295UEdUVk44Sldsc0JYdy1KWnVNYzFrak1aUkRaalBEZWtGYw&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fu%2F3%2Ffolders%2F11nWm_MX6xjmgI9fr0piN3FzuSaaNwlVx&v=T3at61GvUo0">🚀Click here for Notes</a>
 </h3>
 <br/>
+
+<h1>Lecture 7</h1>
+<a href="https://youtu.be/WYBdtOQwmSc?si=-G9SdDg1MLvtXBUu"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/4beb4a22-8896-41af-a3a1-ad60825faa10"/></a>
+<br/>
+<h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblRYTUFsdXp0RV80Z3FxTVVCN3VxdTRuM3dhQXxBQ3Jtc0ttRG95X2hjRzhYVThtOEV3UlpnTm83RWxzd0ZTcGhCdU9VUlhZWG9CWVNwNUplUnJ5T2d6YzZUU3ZfRHFEdllPN0xKY1pvbDZUNkFjcTZLMjlCNVBaendnVjFLYzhPSTQwYzQ2TnJUeDdDSXRvUnBNdw&q=https%3A%2F%2Fgithub.com%2Friti2409%2FDbms_Series%2Fblob%2Fmain%2FLec-7%2520DataAbstraction%2520%2526%2520Different%2520levels%2Fdbms%2520series.pdf&v=WYBdtOQwmSc">🚀Click here for Notes</a>
+</h3>
+<br/>
