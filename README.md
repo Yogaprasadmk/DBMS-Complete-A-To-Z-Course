@@ -119,7 +119,7 @@
 <br/>
 
 <h1>Lecture 18</h1>
-<a href="https://youtu.be/rheuSfqgnqo?si=HSwbDB08FMIV3HOd"><img src="!https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/b849a1a0-e373-43ce-b89b-fbf396a5697a"></a>
+<a href="https://youtu.be/rheuSfqgnqo?si=HSwbDB08FMIV3HOd"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/b849a1a0-e373-43ce-b89b-fbf396a5697a"></a>
 <br/>
 <h3>
 <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazB0TWtGMV9uS0Rzb0h4cTZuTkRzaHJYU3JuUXxBQ3Jtc0tsR0tfc0g0dUk1WjQ1Q2sxNDJpcXJkNGRSNDQwUVdVSkhLQ0FYNnhhQml0a0d4M0NhaTRPMXUzS1BNNHRwRzBialdUYTd3UTZJT0ZJR1ZUT1lUWHRieVlZZWdMVk1UQWxIb3VEM1NSYko2SkNuVFVWSQ&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1mTp-XiRQ3i31PfBi7sEWmzV0oIgzuHJK%3Fusp%3Dsharing&v=rheuSfqgnqo">🚀Click here for Notes</a></h3>
