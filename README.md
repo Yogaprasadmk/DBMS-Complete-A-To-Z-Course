@@ -126,14 +126,39 @@
 <br/>
 
 <h1>Lecture 19</h1>
-<a href=""><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/0113df65-8f74-46d3-af91-3a1e022470d5"></a>
+<a href="https://youtu.be/gQkzvkmt4Jw?si=UbJTsEkhWEsfOiab"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/0113df65-8f74-46d3-af91-3a1e022470d5"></a>
 <br/>
 <h3>
 <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG9JQ05rUFpISHU5R2Vta3VUamd4dk5jaU5ud3xBQ3Jtc0ttV0xScjZHc0Q0UEZRa2hnSGlmRzJkM2ZrWkVHMWd6REtyV1JGU0JVUG9aOW0xTVdVZ1dLXzhEYndLTXlyMDZDWHpOUllsamcyUmxfaDdyLVhRTHdTOFhZakRDSEU4ZVJOdmc0d2hlVWVEaU5tU2JRUQ&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1mTp-XiRQ3i31PfBi7sEWmzV0oIgzuHJK%3Fusp%3Dsharing&v=gQkzvkmt4Jw">🚀Click here for Notes</a></h3>
 <br/>
 
+<h1>Lecture 20</h1>
+<a href="https://youtu.be/hGt1qDaTVfY?si=-Z3zW2XOYCR4vHve"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/93c3d16f-bb4f-4cd2-856c-8a81e196fecd"></a>
+<br/>
+<h3>
+<a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazNlMGlVcDNnNERjZ3pBMEx2ZERPeHpTMk1YUXxBQ3Jtc0tsVnBsQ2lxUEo3N2ViMUNoelllZ1lpeTd6clV1QVlzdDhOM1paUGlhbFdGUUx2VzMyNjJtWFltWmdjbVJrTkNLWFUtRXBCdndwcmtjdlVHVzdNYWRPOWZjWktkcFRuaXRaRkM5cm9rV2dWZ25YeHhvNA&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1mTp-XiRQ3i31PfBi7sEWmzV0oIgzuHJK%3Fusp%3Dsharing&v=hGt1qDaTVfY">🚀Click here for Notes</a></h3>
+<br/>
+
+<h1>Lecture 21</h1>
+<a href="https://youtu.be/iejgUcZpaq8?si=kfsKOozL2AnfGesc"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/a57da7b5-9d00-4a13-98ff-a7781d9135c7"></a>
+<br/>
+<h3>
+<a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVhRVEZma0tWc0N5V0h1QmxybFAwam1vQVQ5Z3xBQ3Jtc0tsZXJuazYwcTNBWWZmbWZOelhpRUZYdlczM0VfS2ZlRWcwY1hlU1lqTUxVWWIzczFkTGNseVhxSE1xNmJydXQzZmFMbERxWXJWRVpGUnJ6czdjdVBpRm5hRU1kMXM1OE8zaDdET0dUXzdzQzFFdk4tNA&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1mTp-XiRQ3i31PfBi7sEWmzV0oIgzuHJK%3Fusp%3Dsharing&v=iejgUcZpaq8">🚀Click here for Notes</a></h3>
+<br/>
+
+<h1>Lecture 22</h1>
+<a href="https://youtu.be/Dfjsu6yVn80?si=YlbZ_Gj-ITPPB3me"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/3fbb4e5a-2d54-4c8a-876f-1f613f9fbe65"/></a>
+<br/>
+<h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazZ5djVnWDZNSXVNNjIxVHY3UnA2cjRvYWp5d3xBQ3Jtc0ttcGJ3Q3l4UHJsQUhfUTdDeFNFbFlHSkNoUWxkRHVwYmZfMngzRUFCUEV1QXcxWExaYVc5RHptMENCV3hfd0VIcUJuRXhHTjlVdkNLR3F5WGRuUnJNZHZLdktMeEdMUWRhamk0M0l6ZGZ4WGU2WnZFZw&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1mTp-XiRQ3i31PfBi7sEWmzV0oIgzuHJK%3Fusp%3Dsharing&v=Dfjsu6yVn80">🚀Click here for Notes</a></h3>
 
 
+<h1>Lecture 23</h1>
+<a href="https://youtu.be/Y-nPMQG9Nyc?si=Z8Zlvbm_IsrgyWk4"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/112a7f59-b09d-40c0-bb50-3fc20ba156e1"/></a>
+<br/>
+<h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUFWZVpPdkVyMTRjWElpbnhVcmU0NTZiaV9CUXxBQ3Jtc0ttQnVuaF9VZkE4UnRCb1NlandhTHNXdFExdzI5aTlKd1VZdTNvZ1VIak1laHd5SG5rOXpadEl1NlhQQ0dyLVd5Z3l6TGtROU5EV3M3VlNIX1E4TFV5T0l3TmU4ZTZrak5Yb3lTWEYySHh1d3J5SG9LNA&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1mTp-XiRQ3i31PfBi7sEWmzV0oIgzuHJK%3Fusp%3Dsharing&v=Y-nPMQG9Nyc">🚀Click here for Notes</a></h3>
 
-
-
+<h1>Lecture 24</h1>
+<a href=""><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/a4ff90ed-eb01-4317-9190-b2556b016789"></a>
+<br/>
+<h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblhmVXBnbElPWjJGT0QwbVFSZHlnOUFjM1hLUXxBQ3Jtc0trbW1JNjZTSk9IODRjYVFCc0VrVDBtNlpNWngxME1kWjdDX0N3MEdjMjBIS2NEcEoyZGkwQzJ3Z0NXNTl5QnJGY2V4bjhRWjl6bDEydVl1SmNYdkZSY0FBWHNiVDB3MXpoeWZCVlhLeENjcW1KZXhKaw&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1mTp-XiRQ3i31PfBi7sEWmzV0oIgzuHJK%3Fusp%3Dsharing&v=DhOhst8FBKE"></a>🚀Click here for Notes</h3>
+<
