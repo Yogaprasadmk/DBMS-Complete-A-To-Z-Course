@@ -163,8 +163,8 @@
 <h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblhmVXBnbElPWjJGT0QwbVFSZHlnOUFjM1hLUXxBQ3Jtc0trbW1JNjZTSk9IODRjYVFCc0VrVDBtNlpNWngxME1kWjdDX0N3MEdjMjBIS2NEcEoyZGkwQzJ3Z0NXNTl5QnJGY2V4bjhRWjl6bDEydVl1SmNYdkZSY0FBWHNiVDB3MXpoeWZCVlhLeENjcW1KZXhKaw&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1mTp-XiRQ3i31PfBi7sEWmzV0oIgzuHJK%3Fusp%3Dsharing&v=DhOhst8FBKE"></a>🚀Click here for Notes</h3>
 
 <h1>Lecture 25</h1>
-<a href="https://youtu.be/yXhiZFBwyIk?si=epeMBfSglcfcDV3N"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/78b39f0c-9e5d-4950-af89-03c6a64c9e7d"></a>
+<a href="https://youtu.be/yXhiZFBwyIk?si=epeMBfSglcfcDV3N"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/78b39f0c-9e5d-4950-af89-03c6a64c9e7d"/></a>
 <br/>
-<h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa192Wko3aWZfdGFESUVEc2NiNnFzbFgwMzRVQXxBQ3Jtc0tuQlBhZmJPcHNYQ1VyQTN2Z3ZEM1NkNG1FdWFkLTZ0X3pCeXhhcjJmT1RVQWpoZUVUTDJDWWdOcEJpdHdDaEZhbVNCclR1Uk5SMld6VGdPM3F5ZDlUVHVqUnNIVkxyaVZYckY1MnVwYVBiY2pGNlgxMA&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fu%2F3%2Ffolders%2F1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc&v=yXhiZFBwyIk"></a>🚀Click here for Notes</h3>
+<h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa192Wko3aWZfdGFESUVEc2NiNnFzbFgwMzRVQXxBQ3Jtc0tuQlBhZmJPcHNYQ1VyQTN2Z3ZEM1NkNG1FdWFkLTZ0X3pCeXhhcjJmT1RVQWpoZUVUTDJDWWdOcEJpdHdDaEZhbVNCclR1Uk5SMld6VGdPM3F5ZDlUVHVqUnNIVkxyaVZYckY1MnVwYVBiY2pGNlgxMA&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fu%2F3%2Ffolders%2F1k3seC1Fho4aoWxN36YL4mAIKn0ZL1Wmc&v=yXhiZFBwyIk">🚀Click here for Notes</a></h3>
 
 
