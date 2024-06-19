@@ -1,4 +1,4 @@
-<h1>Lecture 1</h1>
+![image](https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/6275ce85-0788-4d4c-b37a-971c49d2d623)<h1>Lecture 1</h1>
 <a href="https://youtu.be/FMfYhRaoZZM?si=pLJVRIpnERjp7rkb"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/98d58832-48b4-40a2-b197-6a617f06938f"></a>
 <br/>
 <h3>
@@ -215,3 +215,12 @@
 <h1>Lecture 37</h1>
 <a href="https://youtu.be/iKKvAN-CIPA?si=pvF-WcmrB9sYM7Ik"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/f66bef29-be6a-4fe1-824a-f3be65bf4d33"/></a>
 <h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVpkeWphNlBwM0JIOHFoOF95b2ZXWDMwREc4UXxBQ3Jtc0tuOGlzc0dhVlQyME9jdkp6YjdNdENjLVB3YVRVT3U1MUp0ZnFGYzRHRTRPRWVMRlU1blM4TzV5QXZfb29wX3ppVFJHelQyYXpIa0hWZkh6UXphSjBBOXdaQWtJaTFFb2VrMFVTRUR6UXV5LTgyOFJLbw&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fu%2F3%2Ffolders%2F1O5ZAIzBqVv1E7W3WiZviWv-70UYIVNw_&v=iKKvAN-CIPA">🚀Click here for Notes</a></h3>
+
+<h1>Lecture 38</h1>
+<a href="https://youtu.be/VFdvu6dkGVE?si=5tVJgUPKsKdXaOUd"><img src="![image](https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/8730df3d-19e8-48ce-8a9d-a844c8f999f0)
+"/></a>
+<h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnByMDN4aFZyUlBOVVVHaWwteUhvNFVNbGtuZ3xBQ3Jtc0trakh5dHlPdVYxS1ZpR2d5WVM3QlFTYjVfanI2VWZ4b19qZ01xODYzSmlMNnpobzE1dGd1bUhSTzlqdFpRR3lpZlVkbXJlNGt0blZyRTI1UjFJZ3RkVTRNRmxjU1NzaF9kMmhQUHRLYUxPRmp0cHdHZw&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1yh1srud8h_oh6JO8R_hYub6ktDqZZbaN%2Fview%3Fusp%3Dsharing&v=VFdvu6dkGVE">🚀Click here for Notes</a></h3>
+
+<h1>Lecture 39</h1>
+<a href="https://youtu.be/MFae6MaGetI?si=fwBNhdT8jmNUQXos"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/e6243943-1866-4969-b89d-0ac858e7510e"/></a>
+<h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0stYzBCdUFVOGlySEY3cWM4dERrV25kR2Ftd3xBQ3Jtc0tsckkzdUV1MWh1ZHVjQlJQYV9MWUh4TDZrUGFlanN0aTBLcWFGNVp6cDZXdGw4UzdENnVubTZWLTFpV2E0dVFmNUVmN3NFZ1NqMFFSYURsOHdrOEYwREQ5SW9ZWm1yZE1vWHZjR1NvNFgwQnF2TGhCVQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1jXKwSYX5xwDaKQnxRhDLchf281fjxwMY%2Fview%3Fusp%3Ddrive_link&v=MFae6MaGetI">🚀Click here for Notes</a></h3>
