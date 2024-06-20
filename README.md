@@ -223,3 +223,7 @@
 <h1>Lecture 39</h1>
 <a href="https://youtu.be/MFae6MaGetI?si=fwBNhdT8jmNUQXos"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/e6243943-1866-4969-b89d-0ac858e7510e"/></a>
 <h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0stYzBCdUFVOGlySEY3cWM4dERrV25kR2Ftd3xBQ3Jtc0tsckkzdUV1MWh1ZHVjQlJQYV9MWUh4TDZrUGFlanN0aTBLcWFGNVp6cDZXdGw4UzdENnVubTZWLTFpV2E0dVFmNUVmN3NFZ1NqMFFSYURsOHdrOEYwREQ5SW9ZWm1yZE1vWHZjR1NvNFgwQnF2TGhCVQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1jXKwSYX5xwDaKQnxRhDLchf281fjxwMY%2Fview%3Fusp%3Ddrive_link&v=MFae6MaGetI">🚀Click here for Notes</a></h3>
+
+<h1>Lecture 40</h1>
+<a href="https://youtu.be/BA9gB2xp9bg?si=kc7ZuVLuQAnHwjZ1"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/86178373-6acf-45bb-bf7b-3cfb5474689c"/></a>
+<h3><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkViXzlrcWc4ZWtkczB4MlZZX0FILWRvWUthUXxBQ3Jtc0tsOGc5UUxGaTJHa283dHo0UGFJYTBGcDFYbnNOX0NUamVsc3l1Rk44QmF4ckFuNGxTSWM1UjQ4NjRxWFYwdGFyXzRLQU0ySi1rNFBnSWtVczl0eE9GY0tTMWVYWko5MmNUMnBHTldQSnVTcUt2eHo3aw&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1L_5SEjLGcHkFzWhWtZOM0I1q8PT1ZYIs%2Fview%3Fusp%3Dsharing&v=BA9gB2xp9bg">🚀Click here for Notes</a></h3>
