@@ -1,4 +1,4 @@
-![image](https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/6275ce85-0788-4d4c-b37a-971c49d2d623)<h1>Lecture 1</h1>
+<h1>Lecture 1</h1>
 <a href="https://youtu.be/FMfYhRaoZZM?si=pLJVRIpnERjp7rkb"><img src="https://github.com/Yogaprasadmk/DBMS-Complete-A-To-Z-Course/assets/120255515/98d58832-48b4-40a2-b197-6a617f06938f"></a>
 <br/>
 <h3>
